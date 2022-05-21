@@ -7,20 +7,16 @@
 </div>
 
 ---
-BigDL makes it easy for data scientists and data engineers to build end-to-end, distributed AI applications. The **BigDL 2.0** release combines the [original BigDL](https://github.com/intel-analytics/BigDL/tree/branch-0.14) and [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo) projects, providing the following features:
+BigDL makes it easy to build end-to-end, distributed AI applications. The **BigDL 2.0** release combines the [original BigDL](https://github.com/intel-analytics/BigDL/tree/branch-0.14) and [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo) projects, providing the following features:
  
-  * [DLlib](#getting-started-with-dllib): distributed deep learning library for Apache Spark *(i.e., the original BigDL framework with Keras-style API and Spark ML pipeline support)*
+ * [DLlib](#getting-started-with-dllib): distributed deep learning library for Apache Spark *(i.e., the “equivalent of Spark MLlib” for deep learning)*
 
  * [Orca](#getting-started-with-orca): seamlessly scale out TensorFlow and PyTorch pipelines for distributed Big Data 
- 
- * [RayOnSpark](#getting-started-with-rayonspark): run Ray programs directly on Big Data clusters
  
  * [Chronos](#getting-started-with-chronos): scalable time series analysis using AutoML
  
  * [PPML](#ppml-privacy-preserving-machine-learning): privacy preserving big data analysis and machine learning (*experimental*)
  
- * [Cluster Serving](https://bigdl.readthedocs.io/en/latest/doc/Serving/Overview/serving.html): distributed, real-time model serving
-
 For more information, you may [read the docs](https://bigdl.readthedocs.io/).
 
 ---
