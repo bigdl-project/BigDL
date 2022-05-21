@@ -11,7 +11,7 @@ BigDL makes it easy to build end-to-end, distributed AI applications. The **BigD
  
  * [DLlib](#getting-started-with-dllib): distributed deep learning library for Apache Spark *(i.e., the “equivalent of Spark MLlib” for deep learning)*
 
- * [Orca](#getting-started-with-orca): seamlessly scale out end-to-end Data + AI *(TensorFlow, PyTorch and Ray)* pipelines
+ * [Orca](#getting-started-with-orca): seamlessly scale out end-to-end Data + AI pipelines *(for TensorFlow, PyTorch, Ray, PySpark and Python data science)* 
  
  * [Nano](#getting-started-with-nano): tranparently accelerate end-to-end TensorFlow and PyTorch pipelines
  
